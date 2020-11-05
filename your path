@@ -1,0 +1,1 @@
+[{"name":"shape1","perimeter":23.1,"surfaceArea":52.0},{"side1":10.0,"side2":10.0,"side3":10.0,"height":10.0,"name":"eqTriangle1","perimeter":30.0,"surfaceArea":50.0},{"pi":3.14,"radius":5.0,"name":"circle1","perimeter":31.400000000000002,"surfaceArea":78.5},{"width":25.0,"length":25.0,"name":"square1","perimeter":100.0,"surfaceArea":625.0}]
